@@ -1,0 +1,27 @@
+{
+  "name": "swagvali-express",
+  "version": "1.0.0",
+  "description": "An express based middleware to add validators for swagger based api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subeeshcbabu/swagvali-express.git"
+  },
+  "keywords": [
+    "swagger",
+    "openapi",
+    "validator",
+    "swagvali",
+    "express",
+    "node.js"
+  ],
+  "author": "subeesh chothendavida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subeeshcbabu/swagvali-express/issues"
+  },
+  "homepage": "https://github.com/subeeshcbabu/swagvali-express#readme"
+}
